@@ -191,35 +191,7 @@ python extra_prediction.py
 - Urban planners
 - General public
 
-## Team Members
 
-### Aman Patre
-
-- Led the development of the LSTM model architecture
-- Implemented model training and optimization
-- Developed the prediction system
-- Handled data preprocessing and feature engineering
-
-### Ashutosh Yadav
-
-- Designed and implemented the SUMO traffic simulation
-- Created the network configuration and route definitions
-- Developed the data collection pipeline
-- Implemented real-time traffic monitoring
-
-### Priyanshu Bidhur
-
-- Developed the data processing pipeline
-- Implemented the visualization components
-- Created the prediction output formatting
-- Handled model evaluation and performance metrics
-
-### Soumya Yadav
-
-- Implemented the traffic simulation scenarios
-- Developed the congestion level calculation
-- Created the data validation system
-- Handled the integration testing
 
 ## Technical Innovation
 
